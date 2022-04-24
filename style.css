@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+#emoji_div {
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+    float: none;
+}
+
+#snapshot_btn {
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+    float: none;
+}
+
+#check_btn {
+    padding: 10px;
+    box-shadow: 5px 5px 5px grey;
+    float: none;
+}
